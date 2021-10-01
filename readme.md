@@ -9,7 +9,7 @@
 
 Simular um estudo de Bussiness Inteligence de uma empresa fictícia criada pelo grupo.
            
-## Tecnologias :books:
+## Tecnologias 
            
 As seguintes ferramentas foram usadas na construção do projeto:
            
@@ -17,7 +17,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  - PostgreSQL
  - Power Architect
            
- ## Fases do Projeto :arrow_forward:
+ ## Fases do Projeto 
  
  - [x] <strike>Levantamento de Requisitos</strike>
  - [x] <strike>Criar o Modelo Transacional e os Scripts</strike>
