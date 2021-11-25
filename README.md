@@ -22,8 +22,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
  - [x] <strike>Levantamento de Requisitos</strike>
  - [x] <strike>Criar o Modelo Transacional e os Scripts</strike>
  - [x] <strike>Modelar o Data Warehouse</strike>
- - [x] Fazer o ETL
- - [x] Criar os Dashboards
+ - [x] Fazer o ETL</strike>
+ - [x] Criar os Dashboards</strike>
            
        
 ## Licença 
